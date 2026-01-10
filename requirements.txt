@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-openai
+langchain-core
+xgboost
+pandas
+numpy
+scikit-learn
