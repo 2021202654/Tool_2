@@ -3,7 +3,10 @@ pandas
 numpy
 xgboost
 scikit-learn
-# 关键：指定大于 0.1.0 的版本
+# === 关键修改 ===
+# 必须指定 >= 0.1.0，否则云端可能会给你装两年前的旧版
 langchain>=0.1.20
 langchain-openai>=0.1.0
 langchain-community>=0.0.30
+# ==============
+openai
