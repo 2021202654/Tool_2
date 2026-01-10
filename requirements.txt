@@ -1,8 +1,9 @@
 streamlit
-langchain
-langchain-openai
-langchain-core
-xgboost
 pandas
 numpy
+xgboost
 scikit-learn
+# 关键：指定大于 0.1.0 的版本
+langchain>=0.1.20
+langchain-openai>=0.1.0
+langchain-community>=0.0.30
